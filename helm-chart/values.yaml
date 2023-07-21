@@ -12,7 +12,7 @@ fullnameOverride: ""
 
 service:
   type: ClusterIP
-  port: 80
+  port: 90
   targetPort: 80
 
 namespace:
